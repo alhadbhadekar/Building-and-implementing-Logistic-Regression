@@ -1,7 +1,3 @@
-You're right! I missed including the section about the creation of the logistic regression model. Below is the updated README with more detailed information on the creation of the logistic regression model:
-
----
-
 # Logistic Regression from Scratch in Python
 
 This notebook demonstrates the implementation of a **Logistic Regression** model from scratch using Python. The model is trained on the **PIMA Diabetes** dataset, and it involves implementing key components of logistic regression like the sigmoid function, cost function, gradient descent for optimization, and model evaluation.
